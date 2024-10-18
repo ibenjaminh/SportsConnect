@@ -2,7 +2,7 @@
 ### Sports and Media Track
 
 ## SportsConnect
-**SportsConnect** is a program that helps users connect with an athlete based on basic personal questions. It matches you with an athlete who shares similar characteristics, making the connection more relatable.
+**SportsConnect** is a program that helps users connect with an athlete based on basic personal questions. It matches you with an athlete who shares similar characteristics, making the connection more relatable. Check it out here! https://ibenjaminh.github.io/SportsConnect/
 
 ## Expectations
 We expect **SportsConnect** to become a trend where users engage with it for fun and post their results on social media platforms like TikTok, Instagram, and more.
